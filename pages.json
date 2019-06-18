@@ -3,7 +3,10 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "契通物联终端助手",
+				"usingComponents": {
+					"van-search": "/wxcomponents/vant/dist/search/index"
+				}
 			}
 		}
 	],
